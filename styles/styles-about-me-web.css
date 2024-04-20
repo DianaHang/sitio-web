@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(138, 158, 201);
+}
+
+h1{
+    font-family: "whisper";
+    font-size: 50px;
+    background-color: rgba(114, 113, 113, 0.59);
+    color: rgb(6, 6, 99);
+    text-align: right;
+    border: 5px outset whitesmoke;
+    padding: 15px;
+    margin: 10px;
+}
+
+h3{
+    font-family: "Quicksand";
+    text-align: right;
+    margin: 10px;
+}
+
+nav a{
+    font-family: "Quicksand";
+    text-align: center;
+    margin: 50px;
+    gap: 20px;
+}
+
+img#diana{
+    width: 300px;
+    height: 400px;
+    float: right;
+}
+
+img#gemela{
+    width: 300px;
+    height: 400px;
+}
+
+img#galaxia{
+    width: 300px;
+    height: 300px;
+}
+
+img#DC{
+    width: 400px;
+    height: 300px;
+}
+
+p#parrafo-dos{
+    background-color: aquamarine;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid black;
+}
+
+p{
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+table {
+    border-collapse:separate; 
+    width: 75%;
+    border: 3px solid black;
+
+}
+th,td {
+border: 1px solid rgb(0, 0, 0); 
+padding: 5px;
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+th{
+    background-color: chocolate;
+}
+
+td{
+    background-color: burlywood;
+}
